@@ -1,0 +1,15 @@
+Business Insight 
+
+- A small number of top-selling products contribute the majority of total revenue.
+
+- Certain product categories dominate sales, indicating strong customer preferences.
+
+- Store performance varies significantly, with some locations generating higher revenue.
+
+- Monthly trends show fluctuations in sales, indicating seasonal demand.
+
+- Peak sales occur during specific hours, highlighting time-based customer behavior.
+
+- High-value transactions contribute significantly to overall revenue.
+
+- Sales follow a Pareto pattern where a small percentage of products generate most revenue.
