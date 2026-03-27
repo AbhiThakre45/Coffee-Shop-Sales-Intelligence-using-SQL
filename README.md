@@ -87,6 +87,7 @@ coffee-sql-project/
 ## 👨‍💻 Author
 
 **Abhishek Thakre**
+
 Aspiring Data Analyst | SQL | Excel | Power BI
 
 ---
